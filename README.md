@@ -27,9 +27,13 @@ FlightPro is an ASP.NET Core MVC web application for browsing and booking travel
 \`\`\`
 FlightPro/
 ├── Controllers/   # Home, Trips, Order, MyBook, WaitingList, Reviews, User, Admin
+
 ├── Models/        # View models and domain models
+
 ├── Services/      # PayPalService, StripeService, WaitlistService, BookingRuleService
+
 ├── Views/         # Razor views per controller
+
 └── wwwroot/       # Static assets (css, js, img, lib)
 \`\`\`
 
